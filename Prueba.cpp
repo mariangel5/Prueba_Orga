@@ -3,5 +3,7 @@ using namespace std;
 
 int main(){
 
-return 0;
+	cout << "Esto es una prueba" << endl;
+
+	return 0;
 }
